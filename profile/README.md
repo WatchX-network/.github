@@ -1,7 +1,20 @@
-# WatchX Network
+# ⌚️WatchX Network
 
-WatchX Network is an AI DePIN ecosystem built upon smartwatches, we are backed by IoTeX Foundation, Web3port and Chain Catcher. 
-Within our ecosystem, the smartwatches are equipped with a multi-chain wallet, AI HealthFi and other dApps, operating as a management hub. It identifies biometric data and distributes rewards efficiently for completed tasks and secure payment transactions. By leveraging blockchain rewards, WatchX delivers unparalleled Web3 experiences to millions of users worldwide through our wearable devices. Our vision is to revolutionize the future of DePIN and drive mass adoption in Web3.
+WatchX Network is an AI DePIN ecosystem built upon smartwatches, we are backed by IoTeX Foundation, Web3port and Chain Catcher.  We dedicate to revolutionize the future of DePIN and drive mass adoption in Web3. 
+
+Within our ecosystem, the smartwatches are equipped with a multi-chain wallet, AI HealthFi and other dApps, operating as a management hub. It identifies biometric data and distributes rewards efficiently for completed tasks and secure payment transactions. By leveraging blockchain rewards, WatchX delivers unparalleled Web3 experiences to millions of users worldwide through our wearable devices.
+
+## Features Highlight
+
+🪢 Unique Biometric Identification
+
+🔑 Self-Custody Data Privacy
+
+⚡️ Multi-chain Wallet 
+
+🔋AI HealthFi Assitants
+
+💠 Web3 Mass Adoption
 
 ## Products
 
@@ -32,5 +45,7 @@ X: https://x.com/watchxnetwork
 Telegram: https://t.me/watchxofficial
 
 Discord: https://discord.com/invite/BM8V3R6Q
+
+Video: https://www.youtube.com/watch?v=44oIEI3ULvs
 
 Links: https://link3.to/watchx
